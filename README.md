@@ -47,11 +47,11 @@ C. Data Structure
 
 ---
 ![image](https://github.com/user-attachments/assets/d26cca54-8bfe-44b5-9b38-31949b3d0e62)
-2. **Severity**
-    - Records for `Fatal/Injury`, and `Property/Injury`  involves one vehicle. 
-    - For `fatal` 45.5% involves two or more vehicles, while 54.5% involves one vehicle.
-    - For `injury` majority are single vehicle with 88.3% of total records.
-    - For `Injury/Property`, `Injury/Property Damage` , `Property`, and `Property Damage`, the majority of these involves two or more vehicles, with percentages 88.9%, 69.6%, 85.3%, 91.8% respectively.
+2. Severity
+   - Records for `Fatal/Injury`, and `Property/Injury`  involves one vehicle.
+   - For `fatal` 45.5% involves two or more vehicles, while 54.5% involves one vehicle.
+   - For `injury` majority are single vehicle with 88.3% of total records.
+   - For `Injury/Property`, `Injury/Property Damage` , `Property`, and `Property Damage`, the majority of these involves two or more vehicles, with percentages 88.9%, 69.6%, 85.3%, 91.8% respectively.
 
 ![image](https://github.com/user-attachments/assets/cc644df6-436a-4350-90dd-d5714c5f499d)
 ![image](https://github.com/user-attachments/assets/0ec10da3-fe28-4f39-8d41-22b3f1276c1f)
