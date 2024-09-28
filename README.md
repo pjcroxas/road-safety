@@ -57,25 +57,25 @@ C. Data Structure
 ![image](https://github.com/user-attachments/assets/0ec10da3-fe28-4f39-8d41-22b3f1276c1f)
 
 3. Accident prone area:
-- Majority of the recorded incidents are `Property` or `Property Damage`.
-    - `Taguig City`, and `Muntinlupa` having both `100%` of recorded incidents are `Property Damage`
-- From 2018 to 2020, `QC` , `Makati`, and `Mandaluyong` exceeds `4000` casualties. These cities in Metro Manila are business districts.
-    - For QC, `69.2%` are `injury` (approximately 3180 casualties), while `30.8%` are `property related` (approximately 1420 casualties).
-    - For Makati `40%` are fatal (approx. 1400 incidents), and `60%` (approx. 2700 casualties) are property related and damage.
-    - For Mandaluyong, property damage is majority.
-    - QC, and Pasig are cities that records `fatal` incidents. With Pasig having `14.3%` of fatal road crash.
-- `Cebu City` the only city outside Metro Manila, recorded a `66.7%` of injury or property.
+    - Majority of the recorded incidents are `Property` or `Property Damage`.
+        - `Taguig City`, and `Muntinlupa` having both `100%` of recorded incidents are `Property Damage`
+    - From 2018 to 2020, `QC` , `Makati`, and `Mandaluyong` exceeds `4000` casualties. These cities in Metro Manila are business districts.
+        - For QC, `69.2%` are `injury` (approximately 3180 casualties), while `30.8%` are `property related` (approximately 1420 casualties).
+        - For Makati `40%` are fatal (approx. 1400 incidents), and `60%` (approx. 2700 casualties) are property related and damage.
+        - For Mandaluyong, property damage is majority.
+        - QC, and Pasig are cities that records `fatal` incidents. With Pasig having `14.3%` of fatal road crash.
+    - `Cebu City` the only city outside Metro Manila, recorded a `66.7%` of injury or property.
 
 ---
 ![image](https://github.com/user-attachments/assets/4e209029-6488-4b4a-b87c-f16c43339d0a)
 ![image](https://github.com/user-attachments/assets/dc349108-2225-4a2b-ba03-e66e64cc8df1)
 4.  Accident prone roads
-    1. Accident prone areas are major road.
-    2. From 2018 to 2020, EDSA has been the top rank in road crashes with over 10,000 recorded incidents.
-        1. Majority of the incidents in EDSA are `property` related, with `75%` (approx. 7420 casualties).
-        2. `Injuries`  recorded in EDSA are `25%` (approx. 3180 casualties)
-    3. `EDSA` and `Commonwealth Ave.` are roads that recorded injury-related incidents, with Commonwealth having recorded a `52.7%` (approx. 1160 casualties).
-    4. There is no fatalities recorded on major highways.
+    - Accident prone areas are major road.
+    - From 2018 to 2020, EDSA has been the top rank in road crashes with over 10,000 recorded incidents.
+        - Majority of the incidents in EDSA are `property` related, with `75%` (approx. 7420 casualties).
+        - `Injuries`  recorded in EDSA are `25%` (approx. 3180 casualties)
+    - `EDSA` and `Commonwealth Ave.` are roads that recorded injury-related incidents, with Commonwealth having recorded a `52.7%` (approx. 1160 casualties).
+    - There is no fatalities recorded on major highways.
 
 ---
 ![image](https://github.com/user-attachments/assets/6c021815-e7e8-4ee3-9632-aeb9ecf69d0a)
