@@ -47,7 +47,7 @@ C. Data Structure
 
 ---
 ![image](https://github.com/user-attachments/assets/d26cca54-8bfe-44b5-9b38-31949b3d0e62)
-2. Severity
+2. **Severity**
    - Records for `Fatal/Injury`, and `Property/Injury`  involves one vehicle.
    - For `fatal` 45.5% involves two or more vehicles, while 54.5% involves one vehicle.
    - For `injury` majority are single vehicle with 88.3% of total records.
@@ -56,7 +56,7 @@ C. Data Structure
 ![image](https://github.com/user-attachments/assets/cc644df6-436a-4350-90dd-d5714c5f499d)
 ![image](https://github.com/user-attachments/assets/0ec10da3-fe28-4f39-8d41-22b3f1276c1f)
 
-3. Accident prone area:
+3. **Accident prone area**
    - Majority of the recorded incidents are `Property` or `Property Damage`.
      - `Taguig City`, and `Muntinlupa` having both `100%` of recorded incidents are `Property Damage`
    - From 2018 to 2020, `QC` , `Makati`, and `Mandaluyong` exceeds `4000` casualties. These cities in Metro Manila are business districts.
@@ -69,13 +69,13 @@ C. Data Structure
 ---
 ![image](https://github.com/user-attachments/assets/4e209029-6488-4b4a-b87c-f16c43339d0a)
 ![image](https://github.com/user-attachments/assets/dc349108-2225-4a2b-ba03-e66e64cc8df1)
-4.  Accident prone roads: 
-    - Accident prone areas are major road.
-    - From 2018 to 2020, EDSA has been the top rank in road crashes with over 10,000 recorded incidents.
-       - Majority of the incidents in EDSA are `property` related, with `75%` (approx. 7420 casualties).
-       - `Injuries`  recorded in EDSA are `25%` (approx. 3180 casualties)
-    - `EDSA` and `Commonwealth Ave.` are roads that recorded injury-related incidents, with Commonwealth having recorded a `52.7%` (approx. 1160 casualties).
-    - There is no fatalities recorded on major highways.
+4. **Accident prone roads**
+   - Accident prone areas are major road.
+   - From 2018 to 2020, EDSA has been the top rank in road crashes with over 10,000 recorded incidents.
+     - Majority of the incidents in EDSA are `property` related, with `75%` (approx. 7420 casualties).
+     - `Injuries`  recorded in EDSA are `25%` (approx. 3180 casualties)
+   - `EDSA` and `Commonwealth Ave.` are roads that recorded injury-related incidents, with Commonwealth having recorded a `52.7%` (approx. 1160 casualties).
+   - There is no fatalities recorded on major highways.
 
 ---
 ![image](https://github.com/user-attachments/assets/6c021815-e7e8-4ee3-9632-aeb9ecf69d0a)
