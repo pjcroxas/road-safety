@@ -1,7 +1,6 @@
 # Road Safety: Comprehensive Analysis of DRIVERs Road Crash Data
 
 ## Overview
-
 **DRIVERs** is the central database for road crashes across the Philippines. Various agencies, such as the PNP-Highway Patrol Group, LGUs from Metro Manila, Metro Cebu, and Metro Davao, as well as the Department of Health (DOH), contribute to this database. It is used by decision-makers across sectors such as transportation, urban planning, and road safety. The primary goal of the database is to monitor road accidents and assess the effectiveness of existing public policies in reducing casualties and mortality rates.
 
 ## Executive Summary
@@ -80,37 +79,37 @@ C. Data Structure
 ---
 ![image](https://github.com/user-attachments/assets/6c021815-e7e8-4ee3-9632-aeb9ecf69d0a)
 ![image](https://github.com/user-attachments/assets/4878e484-b541-49cc-abd7-80d64c80cc5f)
-5. Weather Situation
-    - `Partly-cloudy-day` , `clear-day`, `rain` makes up the total `80%` of accidents.
-    - The majority of the casualties based on weather are `injury` and `property`.
-    - `clear-night`, `clear-day`and `partly-cloudy` recorded fatal casualties.
+5. **Weather Situation**
+   - `Partly-cloudy-day` , `clear-day`, `rain` makes up the total `80%` of accidents.
+   - The majority of the casualties based on weather are `injury` and `property`.
+   - `clear-night`, `clear-day`and `partly-cloudy` recorded fatal casualties.
 
 ---
 ![image](https://github.com/user-attachments/assets/23fea4f8-d923-4755-b440-344cab5b0f4d)
 ![image](https://github.com/user-attachments/assets/169f6bb6-1b34-47a1-98a8-b6249e8b4860)
-6. Cause
-    - The main cause of road crashes is `Human error`, with a total record of 60,000 casualties from 2018 to 2020.
-    - Majority of `Human error` results to `property damage` with 61.7% (approx. 31,700) casualties .
-    - For `injury or property` , 14.8% (approx. 8800) casualties.
-- For `vehicle defect`, 20% are fatal (approx. 90 casualties), while 40% suffers from injuries (approx. 180).
-- For `Road Defect` , all incidents results to property damage.
+6. **Cause**
+   - The main cause of road crashes is `Human error`, with a total record of 60,000 casualties from 2018 to 2020.
+     - Majority of `Human error` results to `property damage` with 61.7% (approx. 31,700) casualties .
+     - For `injury or property` , 14.8% (approx. 8800) casualties.
+   - For `vehicle defect`, 20% are fatal (approx. 90 casualties), while 40% suffers from injuries (approx. 180).
+   - For `Road Defect` , all incidents results to property damage.
 
 ---
 ![image](https://github.com/user-attachments/assets/ca9396d4-a0ab-4f86-ae11-df180e335b67)
 ![image](https://github.com/user-attachments/assets/2d72bf99-d330-42e6-80a6-5da501ea4434)
-7. Vehicle type
-    - The `80%` of the accident involves, `car`, `motorcycle`, `SUV`, `van`, `bus`.
-        - Most of the severities for these 6 types of vehicles resulted to `property damage`
-        - Recorded `fatalities` involves `car`, `motorcycle`, and `van`
-            - The highest number of accidents involves `car` , with 1% (approx, 183) casualties.
-            - For motorcycles, 4.1% (approx. 389) casualties, which is higher than cars.
-            - For van, 5.7% (approx 345) casualties.
-        - `Injury`  were recorded on all 6 vehicle types.
-            - For motorcycles, the recorded injuries is 22.7 (approx. 1446 casualties)
-            - For cars, 11.3% (approx. 2060 casualties).
-            - For buses, 3% (approx. 163. casualties)
-            - For SUVs, 5% (approx. 468 casualties)
-            - For taxi, 8% (approx. 271 casualties
-            - For van, 9.7% (approx. 586 casualties)
+7. **Vehicle type**
+   - The `80%` of the accident involves, `car`, `motorcycle`, `SUV`, `van`, `bus`.
+     - Most of the severities for these 6 types of vehicles resulted to `property damage`
+     - Recorded `fatalities` involves `car`, `motorcycle`, and `van`
+       - The highest number of accidents involves `car` , with 1% (approx, 183) casualties.
+       - For motorcycles, 4.1% (approx. 389) casualties, which is higher than cars.
+       - For van, 5.7% (approx 345) casualties.
+     - `Injury`  were recorded on all 6 vehicle types.
+        - For motorcycles, the recorded injuries is 22.7 (approx. 1446 casualties)
+        - For cars, 11.3% (approx. 2060 casualties).
+        - For buses, 3% (approx. 163. casualties)
+        - For SUVs, 5% (approx. 468 casualties)
+        - For taxi, 8% (approx. 271 casualties
+        - For van, 9.7% (approx. 586 casualties)
 
 ## Recommendations
