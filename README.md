@@ -48,23 +48,23 @@ C. Data Structure
 ---
 ![image](https://github.com/user-attachments/assets/d26cca54-8bfe-44b5-9b38-31949b3d0e62)
 2.  **Severity**
-    1. Records for `Fatal/Injury`, and `Property/Injury`  involves one vehicle. 
-    2. For `fatal` 45.5% involves two or more vehicles, while 54.5% involves one vehicle.
-    3. For `injury` majority are single vehicle with 88.3% of total records.
-    4. For `Injury/Property`, `Injury/Property Damage` , `Property`, and `Property Damage`, the majority of these involves two or more vehicles, with percentages 88.9%, 69.6%, 85.3%, 91.8% respectively.
+    - Records for `Fatal/Injury`, and `Property/Injury`  involves one vehicle. 
+    - For `fatal` 45.5% involves two or more vehicles, while 54.5% involves one vehicle.
+    - For `injury` majority are single vehicle with 88.3% of total records.
+    - For `Injury/Property`, `Injury/Property Damage` , `Property`, and `Property Damage`, the majority of these involves two or more vehicles, with percentages 88.9%, 69.6%, 85.3%, 91.8% respectively.
 
 ![image](https://github.com/user-attachments/assets/cc644df6-436a-4350-90dd-d5714c5f499d)
 ![image](https://github.com/user-attachments/assets/0ec10da3-fe28-4f39-8d41-22b3f1276c1f)
 
 3. Accident prone area:
-    - Majority of the recorded incidents are `Property` or `Property Damage`.
-        - `Taguig City`, and `Muntinlupa` having both `100%` of recorded incidents are `Property Damage`
-    - From 2018 to 2020, `QC` , `Makati`, and `Mandaluyong` exceeds `4000` casualties. These cities in Metro Manila are business districts.
-        - For QC, `69.2%` are `injury` (approximately 3180 casualties), while `30.8%` are `property related` (approximately 1420 casualties).
-        - For Makati `40%` are fatal (approx. 1400 incidents), and `60%` (approx. 2700 casualties) are property related and damage.
-        - For Mandaluyong, property damage is majority.
-        - QC, and Pasig are cities that records `fatal` incidents. With Pasig having `14.3%` of fatal road crash.
-    - `Cebu City` the only city outside Metro Manila, recorded a `66.7%` of injury or property.
+   - Majority of the recorded incidents are `Property` or `Property Damage`.
+     - `Taguig City`, and `Muntinlupa` having both `100%` of recorded incidents are `Property Damage`
+   - From 2018 to 2020, `QC` , `Makati`, and `Mandaluyong` exceeds `4000` casualties. These cities in Metro Manila are business districts.
+     - For QC, `69.2%` are `injury` (approximately 3180 casualties), while `30.8%` are `property related` (approximately 1420 casualties).
+     - For Makati `40%` are fatal (approx. 1400 incidents), and `60%` (approx. 2700 casualties) are property related and damage.
+     - For Mandaluyong, property damage is majority.
+     - QC, and Pasig are cities that records `fatal` incidents. With Pasig having `14.3%` of fatal road crash.
+   - `Cebu City` the only city outside Metro Manila, recorded a `66.7%` of injury or property.
 
 ---
 ![image](https://github.com/user-attachments/assets/4e209029-6488-4b4a-b87c-f16c43339d0a)
