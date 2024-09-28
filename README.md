@@ -46,16 +46,16 @@ C. Data Structure
         5. Sunday always recorded the lowest average accidents per hour. It only spiked at 10 pm.
 
 ---
-![image](https://github.com/user-attachments/assets/b5060566-3a4c-41a5-9d3f-d2de8400d023)
+![image](https://github.com/user-attachments/assets/d26cca54-8bfe-44b5-9b38-31949b3d0e62)
 2.  Severity
     1. Records for `Fatal/Injury`, and `Property/Injury`  involves one vehicle. 
     2. For `fatal` 45.5% involves two or more vehicles, while 54.5% involves one vehicle.
     3. For `injury` majority are single vehicle with 88.3% of total records.
     4. For `Injury/Property`, `Injury/Property Damage` , `Property`, and `Property Damage`, the majority of these involves two or more vehicles, with percentages 88.9%, 69.6%, 85.3%, 91.8% respectively.
 
-![image](https://github.com/user-attachments/assets/810d9f68-a1d1-4220-9075-b90e238e4405)
+![image](https://github.com/user-attachments/assets/cc644df6-436a-4350-90dd-d5714c5f499d)
+![image](https://github.com/user-attachments/assets/0ec10da3-fe28-4f39-8d41-22b3f1276c1f)
 
-![image](https://github.com/user-attachments/assets/ea66cb54-3832-4f4e-8fea-764229f4bac8)
 3. Accident prone area:
 - Majority of the recorded incidents are `Property` or `Property Damage`.
     - `Taguig City`, and `Muntinlupa` having both `100%` of recorded incidents are `Property Damage`
@@ -67,9 +67,8 @@ C. Data Structure
 - `Cebu City` the only city outside Metro Manila, recorded a `66.7%` of injury or property.
 
 ---
-![image](https://github.com/user-attachments/assets/fba7e058-235d-44e8-9764-45aa13ccd80d)
-![image](https://github.com/user-attachments/assets/8c439e6d-88cc-418a-b055-eb9505a290bb)
-
+![image](https://github.com/user-attachments/assets/4e209029-6488-4b4a-b87c-f16c43339d0a)
+![image](https://github.com/user-attachments/assets/dc349108-2225-4a2b-ba03-e66e64cc8df1)
 4.  Accident prone roads
     1. Accident prone areas are major road.
     2. From 2018 to 2020, EDSA has been the top rank in road crashes with over 10,000 recorded incidents.
@@ -82,22 +81,22 @@ C. Data Structure
 ![image](https://github.com/user-attachments/assets/6c021815-e7e8-4ee3-9632-aeb9ecf69d0a)
 ![image](https://github.com/user-attachments/assets/4878e484-b541-49cc-abd7-80d64c80cc5f)
 5. Weather Situation
-    1. `Partly-cloudy-day` , `clear-day`, `rain` makes up the total `80%` of accidents.
-    2. The majority of the casualties based on weather are `injury` and `property`.
-    3. `clear-night`, `clear-day`and `partly-cloudy` recorded fatal casualties.
+    - `Partly-cloudy-day` , `clear-day`, `rain` makes up the total `80%` of accidents.
+    - The majority of the casualties based on weather are `injury` and `property`.
+    - `clear-night`, `clear-day`and `partly-cloudy` recorded fatal casualties.
 
 ---
 ![image](https://github.com/user-attachments/assets/23fea4f8-d923-4755-b440-344cab5b0f4d)
 ![image](https://github.com/user-attachments/assets/169f6bb6-1b34-47a1-98a8-b6249e8b4860)
 6. Cause
     - The main cause of road crashes is `Human error`, with a total record of 60,000 casualties from 2018 to 2020.
-        - Majority of `Human error` results to `property damage` with 61.7% (approx. 31,700) casualties .
-        - For `injury or property` , 14.8% (approx. 8800) casualties.
-    - For `vehicle defect`, 20% are fatal (approx. 90 casualties), while 40% suffers from injuries (approx. 180).
-    - For `Road Defect` , all incidents results to property damage.
+    - Majority of `Human error` results to `property damage` with 61.7% (approx. 31,700) casualties .
+    - For `injury or property` , 14.8% (approx. 8800) casualties.
+- For `vehicle defect`, 20% are fatal (approx. 90 casualties), while 40% suffers from injuries (approx. 180).
+- For `Road Defect` , all incidents results to property damage.
 
 ---
-![image](https://github.com/user-attachments/assets/65619710-6aa9-403a-9365-b1067015b0b0)
+![image](https://github.com/user-attachments/assets/ca9396d4-a0ab-4f86-ae11-df180e335b67)
 ![image](https://github.com/user-attachments/assets/2d72bf99-d330-42e6-80a6-5da501ea4434)
 7. Vehicle type
     - The `80%` of the accident involves, `car`, `motorcycle`, `SUV`, `van`, `bus`.
