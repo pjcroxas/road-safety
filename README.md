@@ -35,9 +35,10 @@ C. Data Structure
 ---
 ![image](https://github.com/user-attachments/assets/0f539bc2-cb83-44c9-9399-d067c79b0b03)
 
-![image](https://github.com/user-attachments/assets/d7890ebf-fe65-44fa-b476-4ac2d2e759fb)
+![image](https://github.com/user-attachments/assets/ec86676b-f065-4f7b-aac1-665f7b094ed3)
 
-![image](https://github.com/user-attachments/assets/5a41db87-43e8-439a-9857-77b9eee4656a)
+![image](https://github.com/user-attachments/assets/ba8b6e0e-f25d-4a7a-acc6-7a75d814c85e)
+
 
 1. **Accident Trend**
     1. For the annual comparison, 2018 recorded the highest number of accidents, with two peaks (`march` and `october`). With accidents centered in `ber` months.
