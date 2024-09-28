@@ -1,15 +1,15 @@
-# Road Safety: Comprehensive Analysis of DRIVERs Road Crash Data
-**DRIVERs** is the central database for road crashes across the Philippines. Various agencies, such as the PNP-Highway Patrol Group, LGUs from Metro Manila, Metro Cebu, and Metro Davao, as well as the Department of Health (DOH), contribute to this database. It is used by decision-makers across sectors such as transportation, urban planning, and road safety. The primary goal of the database is to monitor road accidents and assess the effectiveness of existing public policies in reducing casualties and mortality rates.
+# 🚸🚦🚧Road Safety: Comprehensive Analysis of DRIVERs Road Crash Data
+**DRIVERs** is the central database for road crashes across the Philippines. Various agencies, such as the `PNP-Highway Patrol Group`, `LGUs` from `Metro Manila`, `Metro Cebu`, and `Metro Davao`, as well as the `Department of Health (DOH)`, contribute to this database. It is used by decision-makers across sectors such as transportation, urban planning, and road safety. The primary goal of the database is to monitor road accidents and assess the effectiveness of existing public policies in reducing casualties and mortality rates.
 
 ## Executive Summary
 
 ## Project Summary
 
-A. The goal of this project is to:
+A. The goal of this analysis is to:
 
-1. Identify the  underlying cause of an accident
+1. Identify the underlying causes of a road crash
 2. Evaluate the data collection methodology
-3. Recommend policy to lower the accidents
+3. Recommend policy to help reduce the road crash
 
 B. The Project is divided into the following topics:
 
