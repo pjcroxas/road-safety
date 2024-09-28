@@ -1,15 +1,12 @@
 # Road Safety: Comprehensive Analysis of DRIVERs Road Crash Data
 
 ## Overview
----
 
 **DRIVERs** is the central database for road crashes across the Philippines. Various agencies, such as the PNP-Highway Patrol Group, LGUs from Metro Manila, Metro Cebu, and Metro Davao, as well as the Department of Health (DOH), contribute to this database. It is used by decision-makers across sectors such as transportation, urban planning, and road safety. The primary goal of the database is to monitor road accidents and assess the effectiveness of existing public policies in reducing casualties and mortality rates.
 
 ## Executive Summary
----
 
 ## Project Summary
----
 
 A. The goal of this project is to:
 
@@ -27,19 +24,16 @@ B. The Project is divided into the following topics:
 C. Data Structure
 
 ## I. Data Quality Inspection
----
+
 ![image](https://github.com/user-attachments/assets/ea67af8f-701d-4d45-b68e-3e9ed9983f09)
 
 
 ## II. Exploratory Data Analysis (EDA)
----
 ![image](https://github.com/user-attachments/assets/0f539bc2-cb83-44c9-9399-d067c79b0b03)
 
 ![image](https://github.com/user-attachments/assets/ec86676b-f065-4f7b-aac1-665f7b094ed3)
 
 ![image](https://github.com/user-attachments/assets/ba8b6e0e-f25d-4a7a-acc6-7a75d814c85e)
-
-
 1. **Accident Trend**
     1. For the annual comparison, 2018 recorded the highest number of accidents, with two peaks (`march` and `october`). With accidents centered in `ber` months.
         1. accidents occurrences in March significantly decreases to 2020, however it increased by five times in 2021.
@@ -51,21 +45,17 @@ C. Data Structure
         4. For weekends, the recorded average accidents didn’t exceed 22 incidents.
         5. Sunday always recorded the lowest average accidents per hour. It only spiked at 10 pm.
 
-
-![image](https://github.com/user-attachments/assets/509e7151-fd7a-46ab-a0d7-52e15163d0fc)
-
+---
+![image](https://github.com/user-attachments/assets/b5060566-3a4c-41a5-9d3f-d2de8400d023)
 2.  Severity
     1. Records for `Fatal/Injury`, and `Property/Injury`  involves one vehicle. 
     2. For `fatal` 45.5% involves two or more vehicles, while 54.5% involves one vehicle.
     3. For `injury` majority are single vehicle with 88.3% of total records.
     4. For `Injury/Property`, `Injury/Property Damage` , `Property`, and `Property Damage`, the majority of these involves two or more vehicles, with percentages 88.9%, 69.6%, 85.3%, 91.8% respectively.
 
+![image](https://github.com/user-attachments/assets/810d9f68-a1d1-4220-9075-b90e238e4405)
 
-![image](https://github.com/user-attachments/assets/84f1aca9-5cda-42aa-b755-e27118dd02c4)
-
-![image](https://github.com/user-attachments/assets/bb288dc1-f083-48b3-a7f6-5f5a3c4f9ca9)
-
-
+![image](https://github.com/user-attachments/assets/ea66cb54-3832-4f4e-8fea-764229f4bac8)
 3. Accident prone area:
 - Majority of the recorded incidents are `Property` or `Property Damage`.
     - `Taguig City`, and `Muntinlupa` having both `100%` of recorded incidents are `Property Damage`
@@ -76,11 +66,9 @@ C. Data Structure
     - QC, and Pasig are cities that records `fatal` incidents. With Pasig having `14.3%` of fatal road crash.
 - `Cebu City` the only city outside Metro Manila, recorded a `66.7%` of injury or property.
 
-
-
-![image](https://github.com/user-attachments/assets/b7542d82-4785-42ef-b617-03bcea0ba318)
-
-![image](https://github.com/user-attachments/assets/cf38e5fc-088a-4bb7-8e41-0dd7ea667325)
+---
+![image](https://github.com/user-attachments/assets/fba7e058-235d-44e8-9764-45aa13ccd80d)
+![image](https://github.com/user-attachments/assets/8c439e6d-88cc-418a-b055-eb9505a290bb)
 
 4.  Accident prone roads
     1. Accident prone areas are major road.
@@ -90,23 +78,17 @@ C. Data Structure
     3. `EDSA` and `Commonwealth Ave.` are roads that recorded injury-related incidents, with Commonwealth having recorded a `52.7%` (approx. 1160 casualties).
     4. There is no fatalities recorded on major highways.
 
-
-
-![image](https://github.com/user-attachments/assets/4cba3ec7-f0fd-4cda-a0ea-f60ec9d23665)
-
-![image](https://github.com/user-attachments/assets/93f63993-1de6-434d-ac03-9990d1012fca)
-
+---
+![image](https://github.com/user-attachments/assets/6c021815-e7e8-4ee3-9632-aeb9ecf69d0a)
+![image](https://github.com/user-attachments/assets/4878e484-b541-49cc-abd7-80d64c80cc5f)
 5. Weather Situation
     1. `Partly-cloudy-day` , `clear-day`, `rain` makes up the total `80%` of accidents.
     2. The majority of the casualties based on weather are `injury` and `property`.
     3. `clear-night`, `clear-day`and `partly-cloudy` recorded fatal casualties.
 
-
-![image](https://github.com/user-attachments/assets/f7a53064-414b-4bf7-9df7-c18755d6b4c8)
-
-![image](https://github.com/user-attachments/assets/f61551d4-0f99-4fa4-ad99-1f2a37535950)
-
-
+---
+![image](https://github.com/user-attachments/assets/23fea4f8-d923-4755-b440-344cab5b0f4d)
+![image](https://github.com/user-attachments/assets/169f6bb6-1b34-47a1-98a8-b6249e8b4860)
 6. Cause
     - The main cause of road crashes is `Human error`, with a total record of 60,000 casualties from 2018 to 2020.
         - Majority of `Human error` results to `property damage` with 61.7% (approx. 31,700) casualties .
@@ -114,11 +96,9 @@ C. Data Structure
     - For `vehicle defect`, 20% are fatal (approx. 90 casualties), while 40% suffers from injuries (approx. 180).
     - For `Road Defect` , all incidents results to property damage.
 
-
-![image](https://github.com/user-attachments/assets/b3cc6694-bcc0-4181-9d82-b9999f4f9b8a)
-
-![image](https://github.com/user-attachments/assets/7146e2db-660c-4c57-bef6-72729e50d2f8)
-
+---
+![image](https://github.com/user-attachments/assets/65619710-6aa9-403a-9365-b1067015b0b0)
+![image](https://github.com/user-attachments/assets/2d72bf99-d330-42e6-80a6-5da501ea4434)
 7. Vehicle type
     - The `80%` of the accident involves, `car`, `motorcycle`, `SUV`, `van`, `bus`.
         - Most of the severities for these 6 types of vehicles resulted to `property damage`
