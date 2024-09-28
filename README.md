@@ -16,8 +16,7 @@ A. The goal of this project is to:
 B. The Project is divided into the following topics:
 
 1. Data Quality Inspection
-2. Data Analysis
-3. Statistical Analysis
+2. Exploratory Data Analysis
 4. Recommendations
 
 C. Data Structure
