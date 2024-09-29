@@ -2,6 +2,26 @@
 **DRIVERs** is the central database for road crashes across the Philippines. Various agencies, such as the `PNP-Highway Patrol Group`, `LGUs` from `Metro Manila`, `Metro Cebu`, and `Metro Davao`, as well as the `Department of Health (DOH)`, contribute to this database. It is used by decision-makers across sectors such as transportation, urban planning, and road safety. The primary goal of the database is to monitor road accidents and assess the effectiveness of existing public policies in reducing casualties and mortality rates.
 
 ## Executive Summary
+**Trend (Daily Average Accidents per Hour):**
+      On weekdays, the majority of accidents occur in the morning, peaking around 7 AM (between 6 AM and 9 AM), and again at midnight (12 AM). In the afternoon, road crashes tend decrease. On weekends, accidents do not exceed 28 casualties throughout the day, except for a spike at 10 AM on Sundays.
+
+**Accident Severity:**
+      Majority accidents result in property damage, followed by incidents involving injury.
+
+**Accident-Prone Cities:**
+      Key accident-prone cities like Quezon City and Mandaluyong mostly report property damage and injuries. In contrast, Makati and Pasig recorded fatalities, with 40% and 14.3% casualty rates, respectively.
+
+**Accident-Prone Roads:**
+      EDSA ranks highest in road crashes, with most incidents leading to property damage and injuries. Fatalities are rare on major roads and highways, occurring primarily on smaller streets and avenues.
+
+**Weather Conditions:**
+      Fatalities are recorded during both clear (partly cloudy) and rainy conditions. Injuries occur across all six weather conditions.
+
+**Root Cause:**
+      Human error is the leading cause of accidents, accounting for 586 casualties.
+
+**Vehicle Type:**
+      Most incidents involve cars, motorcycles, vans, taxis, and SUVs. Motorcycles account for the highest number of fatalities (389 casualties), followed by cars (183 casualties).
 
 ## Project Summary
 
@@ -20,7 +40,6 @@ B. The Project is divided into the following topics:
 C. Data Structure
 
 ## I. Data Quality Inspection
-
 ![image](https://github.com/user-attachments/assets/ea67af8f-701d-4d45-b68e-3e9ed9983f09)
 
 
@@ -110,3 +129,54 @@ C. Data Structure
         - For van, 9.7% (approx. 586 casualties)
 
 ## Recommendations
+
+## Recommendations
+
+1. **Time-Specific Interventions**
+    - **Peak Hour Safety Campaigns:**
+        - **Weekday mornings (6 AM - 9 AM)**: Implement stricter enforcement of traffic rules and launch targeted road safety campaigns during these hours to mitigate the high volume of accidents.
+        - **Midnight Accidents**: Strengthen patrols and consider placing checkpoints or speed cameras around midnight when accidents spike. Implement stricter speed limits in areas prone to nighttime crashes.
+    - **Weekend Monitoring:**
+        - Focus resources on **Sunday mornings (10 AM)** when accidents peak, by deploying traffic enforcers or utilizing technology such as AI-based traffic monitoring systems in accident-prone areas.
+2. **City-Specific Safety Programs**
+    - **For Quezon City and Mandaluyong**:
+        - Expand accident prevention programs focusing on property damage and injury reduction. These could include better road signage, improved road lighting, and more stringent monitoring of vehicle speed and lane discipline.
+    - **For Makati and Pasig**:
+        - Prioritize efforts to reduce fatal crashes. This may include:
+            - **Targeted interventions in high-fatality areas**, such as improved road lighting, stricter enforcement of helmet laws for motorcycles, and pedestrian safety enhancements like speed bumps, barriers, and better crosswalk visibility.
+            - Public safety campaigns specifically tailored to these cities that emphasize the risks of reckless driving and speeding.
+3. **High-Risk Roads:**
+    - **EDSA**: Introduce additional safety measures on EDSA by:
+        - Expanding surveillance through traffic cameras and real-time incident reporting apps.
+        - Enhancing driver education and awareness campaigns, emphasizing safe driving practices during high-traffic hours to minimize property damage and injury-related incidents.
+    - **Small Streets and Avenues**: Conduct safety audits to identify problematic roads where fatalities occur. Improve signage, lighting, and pedestrian safety features in these areas. Enforce lower speed limits in smaller streets and avenues to reduce fatal crashes.
+4. **Weather Condition Adaptation:**
+    - Equip traffic and enforcement systems with weather condition alerts to adjust enforcement efforts during:
+        - **Rainy Conditions**: Enforce reduced speed limits, ensure proper road drainage systems, and promote the use of hazard lights.
+        - **Clear Conditions**: Continue to monitor and address speeding and reckless driving.
+5. **Human Error Reduction Initiatives:**
+    - **Driver Education Programs**:
+        - Establish periodic **driver refresher courses** focusing on common human errors that lead to accidents. These could include:
+            - Defensive driving techniques
+            - Safe overtaking and merging practices
+            - Safe speed management and hazard anticipation
+        - Leverage **technology** such as mobile apps for drivers that provide alerts and real-time guidance on road conditions and rules.
+    - **Stricter Penalties for Human Error**: Increase penalties for human-error-related offenses such as distracted driving, DUI, speeding, and reckless driving. Implement **"zero tolerance"** rules for repeat offenders.
+6. **Vehicle-Specific Measures**
+    - **Motorcycle Safety**:
+        - Focus on reducing fatalities by implementing stricter helmet laws and safety gear enforcement.
+        - Launch public safety campaigns aimed at motorcycle drivers emphasizing defensive driving, lane discipline, and adherence to speed limits.
+        - Provide **dedicated motorcycle lanes** where feasible to minimize accidents involving cars and motorcycles.
+    - **Car and SUV Regulation**:
+        - Encourage **mandatory installation of advanced safety features** in vehicles such as anti-lock braking systems (ABS), airbags, and vehicle stability control systems.
+        - Promote safe driving practices for all vehicle types through public awareness campaigns, highlighting the dangers of speeding, distracted driving, and tailgating.
+7. **Accident Response & Post-Crash Care**
+    - **Improve Emergency Response Times**: In collaboration with local governments, set up additional emergency response stations along major roads and in high-risk areas, such as accident-prone streets and avenues.
+    - **Post-Crash Care**: Increase the number of trained first responders and equip ambulances with life-saving tools to address injuries promptly, reducing the likelihood of fatalities.
+8. **Data-Driven Monitoring & Evaluation**
+    - **Accident Tracking Systems**:
+        - Develop a centralized, data-driven road traffic accident tracking system that allows for real-time data collection and analysis of accidents. Use this data to inform future safety initiatives and road infrastructure planning.
+    - **Periodic Policy Review**:
+        - Conduct regular evaluations of accident data to assess the effectiveness of the implemented measures. Adjust strategies as necessary to ensure continuous improvement in road safety outcomes.
+
+These recommendations aim to target the root causes of accidents while addressing the specific risks posed by different vehicle types, time frames, cities, and roads. By focusing on both prevention and responsive measures, the overall goal is to reduce casualties, particularly fatalities, and property damage.
