@@ -4,7 +4,7 @@
 ## Executive Summary
 
 **Trend (Daily Average Accidents per Hour):**
-- On weekdays, the majority of accidents occur in the morning, peaking around 7 AM (between 6 AM and 9 AM), and again at midnight (12 AM). In the afternoon, road crashes tend decrease. On weekends, accidents do not exceed 28 casualties throughout the day, except for a spike at 10 AM on Sundays.
+- On weekdays, the majority of accidents occur in the morning, peaking around 7 AM (between 6 AM and 9 AM), and again at midnight (12 AM). In the afternoon, road crashes tend to decrease. On weekends, accidents do not exceed 28 casualties throughout the day, except for a spike at 10 AM on Sundays.
 
 **Accident Severity:**
 - Majority accidents result in property damage, followed by incidents involving injury.
