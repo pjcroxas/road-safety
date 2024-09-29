@@ -42,11 +42,11 @@ C. Data Structure
 
 ## I. Data Quality Inspection
 ![image](https://github.com/user-attachments/assets/ea67af8f-701d-4d45-b68e-3e9ed9983f09)
-    - Majority of the missing data indicates that the field is not set as required. Features like `severity`, `injury` , `Age`, `Damage`, `Gender`, and `defect` should be prioritized to become require to be filled out.
-    - Inconsistencies in categorical data such as `region`, `city`, as `road`, indicates that the data are inputted as a string, instead of a dropdown or predefine/selection type.
-    - Supplemental data should be put near the field to support its information such as `description` for  `Main Cause` .
-    - features like `date of report` , `email of encoder`and other similar features should be automatically saved by the system to lessen the work for the encoder.
-    - Minimize collecting or including in the extraction of personal information such as `Name` , `License Number`, `Engine Number`, `Address` .
+ - Majority of the missing data indicates that the field is not set as required. Features like `severity`, `injury` , `Age`, `Damage`, `Gender`, and `defect` should be prioritized to become require to be filled out.
+ - Inconsistencies in categorical data such as `region`, `city`, as `road`, indicates that the data are inputted as a string, instead of a dropdown or predefine/selection type.
+ - Supplemental data should be put near the field to support its information such as `description` for  `Main Cause` .
+ - features like `date of report` , `email of encoder`and other similar features should be automatically saved by the system to lessen the work for the encoder.
+ - Minimize collecting or including in the extraction of personal information such as `Name` , `License Number`, `Engine Number`, `Address` .
 
 ## II. Exploratory Data Analysis (EDA)
 ![image](https://github.com/user-attachments/assets/0f539bc2-cb83-44c9-9399-d067c79b0b03)
