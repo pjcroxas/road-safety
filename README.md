@@ -42,11 +42,11 @@ C. Data Structure
 
 ## I. Data Quality Inspection
 ![image](https://github.com/user-attachments/assets/ea67af8f-701d-4d45-b68e-3e9ed9983f09)
- - Majority of the missing data indicates that the field is not set as required. Features like `severity`, `injury` , `Age`, `Damage`, `Gender`, and `defect` should be prioritized to become require to be filled out.
- - Inconsistencies in categorical data such as `region`, `city`, as `road`, indicates that the data are inputted as a string, instead of a dropdown or predefine/selection type.
- - Supplemental data should be put near the field to support its information such as `description` for  `Main Cause` .
- - features like `date of report` , `email of encoder`and other similar features should be automatically saved by the system to lessen the work for the encoder.
- - Minimize collecting or including in the extraction of personal information such as `Name` , `License Number`, `Engine Number`, `Address` .
+ - The majority of the missing data suggests that certain fields are not set as required. Features like severity, injury, age, damage, gender, and defect should be prioritized and marked as mandatory fields.
+ - Inconsistencies in categorical data, such as region, city, and road, indicate that the data are being entered as free-text strings instead of using dropdowns or predefined selection options.
+ - Supplemental data, such as descriptions for the main cause of accidents, should be provided near the relevant fields to support accurate input.
+ - Fields like the date of report, email of the encoder, and other similar details should be automatically captured by the system to reduce the encoder’s workload.
+ - Finally, the collection or extraction of personal information, such as name, license number, engine number, and address, should be minimized to protect privacy.
 
 ## II. Exploratory Data Analysis (EDA)
 ![image](https://github.com/user-attachments/assets/0f539bc2-cb83-44c9-9399-d067c79b0b03)
