@@ -2,26 +2,26 @@
 **DRIVERs** is the central database for road crashes across the Philippines. Various agencies, such as the `PNP-Highway Patrol Group`, `LGUs` from `Metro Manila`, `Metro Cebu`, and `Metro Davao`, as well as the `Department of Health (DOH)`, contribute to this database. It is used by decision-makers across sectors such as transportation, urban planning, and road safety. The primary goal of the database is to monitor road accidents and assess the effectiveness of existing public policies in reducing casualties and mortality rates.
 
 ## Executive Summary
-**Trend (Daily Average Accidents per Hour):**
-      On weekdays, the majority of accidents occur in the morning, peaking around 7 AM (between 6 AM and 9 AM), and again at midnight (12 AM). In the afternoon, road crashes tend decrease. On weekends, accidents do not exceed 28 casualties throughout the day, except for a spike at 10 AM on Sundays.
+      **Trend (Daily Average Accidents per Hour):**
+            On weekdays, the majority of accidents occur in the morning, peaking around 7 AM (between 6 AM and 9 AM), and again at midnight (12 AM). In the afternoon, road crashes tend decrease. On weekends, accidents do not exceed 28 casualties throughout the day, except for a spike at 10 AM on Sundays.
 
 **Accident Severity:**
-      Majority accidents result in property damage, followed by incidents involving injury.
+Majority accidents result in property damage, followed by incidents involving injury.
 
 **Accident-Prone Cities:**
-      Key accident-prone cities like Quezon City and Mandaluyong mostly report property damage and injuries. In contrast, Makati and Pasig recorded fatalities, with 40% and 14.3% casualty rates, respectively.
+Key accident-prone cities like Quezon City and Mandaluyong mostly report property damage and injuries. In contrast, Makati and Pasig recorded fatalities, with 40% and 14.3% casualty rates, respectively.
 
 **Accident-Prone Roads:**
-      EDSA ranks highest in road crashes, with most incidents leading to property damage and injuries. Fatalities are rare on major roads and highways, occurring primarily on smaller streets and avenues.
+EDSA ranks highest in road crashes, with most incidents leading to property damage and injuries. Fatalities are rare on major roads and highways, occurring primarily on smaller streets and avenues.
 
 **Weather Conditions:**
-      Fatalities are recorded during both clear (partly cloudy) and rainy conditions. Injuries occur across all six weather conditions.
+Fatalities are recorded during both clear (partly cloudy) and rainy conditions. Injuries occur across all six weather conditions.
 
 **Root Cause:**
-      Human error is the leading cause of accidents, accounting for 586 casualties.
+Human error is the leading cause of accidents, accounting for 586 casualties.
 
 **Vehicle Type:**
-      Most incidents involve cars, motorcycles, vans, taxis, and SUVs. Motorcycles account for the highest number of fatalities (389 casualties), followed by cars (183 casualties).
+Most incidents involve cars, motorcycles, vans, taxis, and SUVs. Motorcycles account for the highest number of fatalities (389 casualties), followed by cars (183 casualties).
 
 ## Project Summary
 
@@ -42,6 +42,11 @@ C. Data Structure
 ## I. Data Quality Inspection
 ![image](https://github.com/user-attachments/assets/ea67af8f-701d-4d45-b68e-3e9ed9983f09)
 
+      - Majority of the missing data indicates that the field is not set as required. Features like `severity`, `injury` , `Age`, `Damage`, `Gender`, and `defect` should be prioritized to become require to be filled out.
+      - Inconsistencies in categorical data such as `region`, `city`, as `road`, indicates that the data are inputted as a string, instead of a dropdown or predefine/selection type.
+      - Supplemental data should be put near the field to support its information such as `description` for  `Main Cause` .
+      - features like `date of report` , `email of encoder`and other similar features should be automatically saved by the system to lessen the work for the encoder.
+      - Minimize collecting or including in the extraction of personal information such as `Name` , `License Number`, `Engine Number`, `Address` .
 
 ## II. Exploratory Data Analysis (EDA)
 ![image](https://github.com/user-attachments/assets/0f539bc2-cb83-44c9-9399-d067c79b0b03)
